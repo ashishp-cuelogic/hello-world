@@ -10,4 +10,4 @@ Changes made on local repo.
 
 Changes made for dev branch.
 
-Making changes fron remote repo. Dev2 branch in order to produce conflict in remote and local repo. content.
+Making changes fron remote repo. Dev2 branch in order to produce conflict in remote and local repo. content(Again...).
